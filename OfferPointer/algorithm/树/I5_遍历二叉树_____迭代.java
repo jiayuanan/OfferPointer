@@ -7,7 +7,7 @@ package Ê÷;
  */
 import java.util.*;
 
-import ch4clearthoughts.ListNode;
+import offerpointer2.ListNode;
 public class I5_±éÀú¶þ²æÊ÷_____µü´ú {
 	public static void main(String...args) {
 		TreeNode node = new TreeNode(8);
